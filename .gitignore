@@ -1,0 +1,38 @@
+### Maven ###
+target
+
+### JetBrains ###
+*.iml
+.idea/
+e-commerce-java.iml
+
+### Data ###
+*.h2.db
+token_details.lock.db
+token_details.mv.db
+/data
+
+### Logs ###
+/lo
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
